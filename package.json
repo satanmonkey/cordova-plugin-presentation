@@ -1,0 +1,34 @@
+{
+  "name": "de.fhg.fokus.famium.presentation",
+  "version": "0.0.2",
+  "description": "Cordova Presentation API Plugin",
+  "cordova": {
+    "id": "de.fhg.fokus.famium.presentation",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satanmonkey/cordova-plugin-presentation.git"
+  },
+  "keywords": [
+    "famium",
+    "cordova",
+    "presentation",
+    "presentation api",
+    "second screen",
+    "multi-screen",
+    "webscreens",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/fraunhoferfokus/cordova-plugin-presentation/issues"
+  },
+  "homepage": "https://github.com/fraunhoferfokus/cordova-plugin-presentation#readme"
+}
